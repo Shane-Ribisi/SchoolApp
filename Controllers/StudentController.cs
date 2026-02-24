@@ -36,6 +36,7 @@ namespace SchoolApp.Controllers
             //    Email = s.Email,
             //    Address = s.Address
             //};
+
             return Ok(students);
         }
 
